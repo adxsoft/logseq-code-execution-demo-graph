@@ -2,7 +2,7 @@
 A logseq graph that demonstrates how to use python and/or javascript code within a logseq graph giving Jupyter like behaviours - includes using logseq API calls to get pages and blocks and run queries.
 
 ## Video
- - A full walkthrough of the graph can be found in this video [here](https://youtu.be/SPaVSRIx51g)
+ - A full walkthrough of the graph can be found in this video [here](https://youtu.be/u1hi7HjG66A)
 
 ## Acknowledgements
 - Uses the technique developed by **mentaloid** in these logseq forum pages
